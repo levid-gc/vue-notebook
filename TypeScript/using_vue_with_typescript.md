@@ -1,4 +1,4 @@
-# 使用 TypeScript 编写 Vue
+# 使用 TypeScript 编写 Vue 应用
 
 ## 装饰器
 
