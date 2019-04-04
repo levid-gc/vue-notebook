@@ -1,4 +1,4 @@
-# Vue 中各种 TypeScript 写法
+# 使用 TypeScript 编写 Vue
 
 ## 装饰器
 
