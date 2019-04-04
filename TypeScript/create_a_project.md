@@ -1,4 +1,4 @@
-# 创建 TypeScript 版本 Vue 应用
+# 创建 TypeScript 版本 Vue 项目
 
 > 说明：针对 `@vue/cli` 3.x 版本。
 
@@ -17,3 +17,11 @@ yarn global add @vue/cli
 ```bash
 vue --version
 ```
+
+## 2 创建项目
+
+```bash
+vue create your-project-name
+```
+
+选择 `Manually select features`，勾选 `TypeScript`，选择 `Y`，选择 `Y`，选择 `TSLint`，剩余的按实际情况勾选。
