@@ -17,3 +17,23 @@
 ### 样式
 
 `style` 元素定义的是 CSS 样式。应用于 `template` 元素或更广的范围。并不是所有的组件都需要它们自己的 CSS 样式，
+
+## 数据展示
+
+数据绑定中实用全局对象和函数：
+
+| 名称       | 描述                                                         |
+| ---------- | ------------------------------------------------------------ |
+| parseFloat | 解析浮点数据值的函数。                                       |
+| parseInt   | 解析整型数据值的函数。                                       |
+| Math       | 提供数学函数的对象。                                         |
+| Number     | 提供处理数值类型方法的对象。                                 |
+| Date       | 提供处理时间类型方法的对象。                                 |
+| Array      | 提供处理数组类型方法的对象。                                 |
+| Object     | 提供处理对象类型方法的对象。                                 |
+| String     | 提供处理字符串类型方法的对象。                               |
+| RegExp     | 用于处理正则表达式的对象。                                   |
+| Map        | 用于表示键值对集合的对象。                                   |
+| Set        | 用于表示唯一值集合的对象                                     |
+| JSON       | 用于序列化/反序列化 JSON 数据的对象。                        |
+| Intl       | 用于本地化处理的对象，详见 [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl)。 |

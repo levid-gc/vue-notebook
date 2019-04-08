@@ -31,7 +31,7 @@ new Vue({
 })
 ```
 
-TS 推荐写法：
+TS 装饰器写法（推荐）：
 
 ```typescript
 import { Component, Vue } from 'vue-property-decorator';
@@ -64,7 +64,7 @@ new Vue({
 })
 ```
 
-TS 推荐写法：
+TS 装饰器写法（推荐）：
 
 ```typescript
 import { Component, Vue } from 'vue-property-decorator';
@@ -99,7 +99,7 @@ new Vue({
 })
 ```
 
-TS 推荐写法：
+TS 装饰器写法（推荐）：
 
 ```typescript
 import { Component, Vue } from 'vue-property-decorator';
